@@ -1,3 +1,3 @@
 # CV repository
 
-See folder `out` for the pdf and t.ex details.
+See folder `out` for the pdf and tex details.
